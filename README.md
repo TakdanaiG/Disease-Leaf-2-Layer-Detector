@@ -34,8 +34,10 @@ Dataset ที่ใช้สำหรับ train แบ่งออกได�
         ![Yolo Result](images/Yoloresult.png)
     
   - Classifier model หลังจากแยกใบเราจะใช้ model ตัวนี้สำหรับแยกระหว่าง ใบที่ Healthy  และ Unhealthy
-        !(images/Classifierresult).png)
+        ![Image](images/Classifierresult.png)
 
 ## Last Result
         ![Image](images/Lastresult.png)
+        ![Image](images/Lastresult.png)
+
 
