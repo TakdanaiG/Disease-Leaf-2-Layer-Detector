@@ -37,7 +37,7 @@ Dataset ที่ใช้สำหรับ train แบ่งออกได�
         ![Image](images/Classifierresult.png)
 
 ## Last Result
-        ![Image](images/Lastresult.png)
-        ![Image](images/Lastresult.png)
+        ![Last Result](images/Lastresult.png)
+
 
 
