@@ -1,11 +1,13 @@
 # Disease-Leaf-2-Layer-Detector
+
 งานนี้เป็นส่วนหนึ่งของโครงการ iRAIC2023 (Innovation Robotic AI & IOT Contest 2023) ที่จัดโดยมหาวิทยาลัยเกษตรศาสตร์และได้รับรางวัลรองชนะเริศอันดับ 2 ในหัวข้อ ออกแบบระบบ IoT System สำหรับระบบเกษตร
 แม่นยำสูง(Precision Argriculture)
 
 โดย Project จะเกี่ยวกับการสร้าง DashBoard ที่ติดตามค่าสถานะต่างๆของฟาร์มเช่น อุณหภูมิ ความชื้น ความสว่าง รวมถึงการใช้ Deep learning มาประยุกต์ใช้เข้ากับ smart farm เพื่อให้มีประสิทธิภาพมากยิ่งขึ้น
 
+[![iRAIC2023](images/iRAIC2023.jpg)](https://web.facebook.com/iRAIC2023/?_rdc=1&_rdr)
+
 ชื่อทีม: El gato
-    ![iRAIC2023](images/iRAIC2023.png)
 
 ## Dashboard
 
