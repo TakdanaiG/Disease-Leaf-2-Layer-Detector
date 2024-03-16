@@ -36,8 +36,10 @@ Dataset ที่ใช้สำหรับ train แบ่งออกได�
   - Classifier model หลังจากแยกใบเราจะใช้ model ตัวนี้สำหรับแยกระหว่าง ใบที่ Healthy  และ Unhealthy
         ![Image](images/Classifierresult.png)
 
-## Last Result
-        ![Last Result](images/Lastresult.png)
+## Last Result  
+![Result](images/result.png)
+
+
 
 
 
